@@ -51,7 +51,7 @@ def main():
     """)
 
     # Load the model
-    model_path = '/mount/src/diabetes-prediction-web-app/trained_model.sav'
+    model_path = 'trained_model.sav'
     loaded_model = load_model(model_path)
 
     if loaded_model:
