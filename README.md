@@ -5,7 +5,7 @@
 ## Overview
 The **Diabetes Prediction App** is a machine learning-powered web application designed to predict whether a person is diabetic or not based on various health metrics. Built using Python, Streamlit, and scikit-learn, the app allows users to input health parameters or load models to get instant predictions.
 
-🌐 **Deployed App:** [Diabetes Prediction App](https://diabetes-prediction-aryan-dhanuka.streamlit.app/)
+🌐 **Deployed App:** [Diabetes Prediction App](https://diabetes-risk-prediction-using-machine-learning-zfxcf5accgfw9e.streamlit.app/)
 
 ---
 
@@ -34,8 +34,7 @@ The app accepts the following inputs:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AryanDhanuka10/Diabetes-Prediction
-   cd Diabetes-Prediction
+   git clone https://github.com/uttkarsh-thakur26/Diabetes-Risk-Prediction-Using-Machine-Learning
    ```
 
 2. **Install Dependencies**
