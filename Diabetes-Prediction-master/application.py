@@ -3,8 +3,8 @@ import pickle
 import numpy as np
 
 # Load the scaler and model
-scaler = pickle.load(open("Models/Diabetes_Standard_Scaler.pkl", "rb"))
-model = pickle.load(open("Models/Diabetes_Prediction_model.pkl", "rb"))
+scaler = pickle.load(open("Diabetes-Prediction-master/Models/Diabetes_Standard_Scaler.pkl", "rb"))
+model = pickle.load(open("Diabetes-Prediction-master/Models/Diabetes_Prediction_model.pkl", "rb"))
 
 # App Title
 st.title("Diabetes Prediction App")
